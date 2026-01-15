@@ -17,6 +17,8 @@ _Hvordan bruke Code Cell sin esp32 c3 som web server_
 IP-adresse blir printet i terminal etter at den har fått en velykket tilkobling til ruter. 
 
 **DEMO**
+
+
 ![Pomodoro ferdig produkt](https://github.com/RealHaakon/Klokke_introprojekt/blob/main/bilder_og_gifs/LivePoximity-ezgif.com-speed.gif)
 
 
